@@ -37,7 +37,7 @@ dnf5 install -y iperf3
 dnf5 install -y libreoffice
 dnf5 install -y lolcat
 dnf5 install -y lsd
-dnf5 install -y ltunify
+# dnf5 install -y ltunify
 dnf5 install -y mpv
 dnf5 install -y neovim
 dnf5 install -y net-tools
