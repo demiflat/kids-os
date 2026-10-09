@@ -29,7 +29,6 @@ dnf5 install -y fzf
 dnf5 install -y golang
 dnf5 install -y git-delta
 dnf5 install -y gitk
-dnf5 install -y gron
 dnf5 install -y hdparm
 dnf5 install -y iftop
 dnf5 install -y iotop-c
