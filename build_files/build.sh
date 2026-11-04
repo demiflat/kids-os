@@ -35,6 +35,7 @@ dnf5 install -y iotop-c
 dnf5 install -y jq
 dnf5 install -y iperf3
 dnf5 install -y libreoffice
+dnf5 install -y lmms
 dnf5 install -y lolcat
 dnf5 install -y lsd
 # dnf5 install -y ltunify
@@ -55,4 +56,4 @@ dnf5 install -y zip
 dnf5 install -y zstd
 
 systemctl enable sshd.service
-systemctl enable podman.socket
+# systemctl enable podman.socket
