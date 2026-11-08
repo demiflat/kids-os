@@ -17,6 +17,7 @@ dnf5 -y copr enable scottames/ghostty
 dnf5 install -y ghostty
 
 dnf5 install -y sshd
+dnf5 install -y audacity
 dnf5 install -y tmux
 dnf5 install -y aria2
 dnf5 install -y et
