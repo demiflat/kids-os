@@ -40,6 +40,7 @@ dnf5 install -y lolcat
 dnf5 install -y lsd
 # dnf5 install -y ltunify
 dnf5 install -y mpv
+dnf5 install -y muse
 dnf5 install -y neovim
 dnf5 install -y net-tools
 dnf5 install -y NetworkManager-tui
