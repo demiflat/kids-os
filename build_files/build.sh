@@ -50,6 +50,7 @@ dnf5 install -y pwgen
 dnf5 install -y python3-pip
 dnf5 install -y python3-virtualenv
 dnf5 install -y qemu
+dnf5 install -y qtractor
 dnf5 install -y strace
 dnf5 install -y unzip
 dnf5 install -y zip
